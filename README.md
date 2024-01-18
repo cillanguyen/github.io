@@ -62,8 +62,7 @@ language that everyone know. Since it's not use quite often in the programming
 field.
 
 * Basic knowledge of **JAVA**, **React**, **bootstrap**, **Git**
-
-[ref]: https://github.com/cillanguyen
+      * link to my [github](https://github.com/cillanguyen)
 
 ## ADDITIONAL INFORMATION
 
@@ -72,4 +71,5 @@ field.
      * Vietnamese (fluent)
 
 > I went on a cross country roadtrip summer 2020 from California to Indiana
+
 ![The Grand Canyon](https://media.istockphoto.com/id/1048931984/photo/horseshoe-bend-at-sunset.jpg?s=612x612&w=0&k=20&c=uJAAaPPKx1fW7IVY8msNDGczIX5tuQUJeEF4CfsGZm0=)
