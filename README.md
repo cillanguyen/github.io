@@ -62,7 +62,7 @@ language that everyone know. Since it's not use quite often in the programming
 field.
 
 * Basic knowledge of **JAVA**, **React**, **bootstrap**, **Git**
-      * link to my [github](https://github.com/cillanguyen)
+  * link to my [github](https://github.com/cillanguyen)
 
 ## ADDITIONAL INFORMATION
 
