@@ -1,50 +1,45 @@
-Priscilla Nguyen
-================
+# Priscilla Nguyen
 
-------------------------------------------------------
 cillangu@uw.edu | 425-533-6220 | linkedin.com/cillangu
 ------------------------------------------------------
 
-EDUCATION
----------
+## EDUCATION
+
 
 2020 - Present
 * **Bachlors, Geography Data Science**, University of Washington (Seattle)
       *Minor: Informatics*
 
-Experience
-----------
+## Experience
 
 **University of Washington**
-*IT Accessibility Assistant*
 
-2022 - Present
+*IT Accessibility Assistant*    2022 - Present
 
 * Used assistive technologies such as VoiceOver, NVDA, and JAWS to assist clients in making their applications accessible to non-visual learners; resulting in increased accessibility and inclusion.
 * Managed 3+ collaborative projects with industry leaders such as Workday, Zoom, and Microsoft to assist them in producing an accessible application
 * Regularly communicate and collaborate with project leaders and other team members to maintain project goals and quality standards.
 
 **University of Washington**
-*Customer Service Specialist Assistant*
 
-2021 - 2022
+*Customer Service Specialist Assistant*    2021 - 2022
 
 * Addressed alumni concerns and questions through clear and concise information
 * Aided alumni through system usage while providing valuable feedback to management to process improvements
 * Implemented and utilized automatic systems to handle customer queries efficiently
 
-Technical Experience
---------------------
+## Technical Experience
 
-WINFO 2023 Hackaton
+### WINFO 2023 Hackaton
 * Designed and created a interctive application that provides resources for students
 going home late at night. A way to provide safety to our campus community and for our
 students
 
   * used FIGMA to design and create a protype for the application
   * 12 hr hackaton to design, create and present the final product
+  * link to the project [s4s](https://www.linkedin.com/posts/cillangu_winfo11thannualhackathon-activity-7005618650896363520-72Cg?utm_source=share&utm_medium=member_desktop)
 
-INRIX x Amazon Hackaton
+### INRIX x Amazon Hackaton
 * Designed and programmed a interactive map using INRIX and Amazon API in order
 to design an application that allows user to find the safest route from point A to
 point B. There is a chatBot that will further assist with any additional questions
@@ -52,8 +47,9 @@ regarding the API.
 
   * 24 hr hackaton to design and program the product
   * 2 round of presentation + 1 finalist presentation
+  * link to the project [safeGPT](https://devpost.com/software/safegpt-y3tagd)
 
-Programming Languages
+### Programming Languages
 * **first-lang:** I learned java and javascript first when I took CSE 142. And
 later took CSE 154 where I learned how to advance my javascript with React, HTML
 and CSS.
@@ -69,10 +65,11 @@ field.
 
 [ref]: https://github.com/cillanguyen
 
-ADDITIONAL INFORMATION
-----------------------------------------
+## ADDITIONAL INFORMATION
 
 * Human Languages:
      * English (native speaker)
      * Vietnamese (fluent)
-* I went on a cross country roadtrip summer 2020 from California to Indiana
+
+> I went on a cross country roadtrip summer 2020 from California to Indiana
+![The Grand Canyon](https://media.istockphoto.com/id/1048931984/photo/horseshoe-bend-at-sunset.jpg?s=612x612&w=0&k=20&c=uJAAaPPKx1fW7IVY8msNDGczIX5tuQUJeEF4CfsGZm0=)
