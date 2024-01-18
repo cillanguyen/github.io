@@ -9,17 +9,16 @@ EDUCATION
 ---------
 
 2020 - Present
-:     **Bachlors, Geography Data Science**, University of Washington (Seattle)
-
+:   **Bachlors, Geography Data Science**, University of Washington (Seattle)
       *Minor: Informatics*
 
 Experience
 ----------
 
 **University of Washington**
-*IT Accessibility Assistant*
+:   *IT Accessibility Assistant*
 
-:  2022 - Present
+:   2022 - Present
 
 * Used assistive technologies such as VoiceOver, NVDA, and JAWS to assist clients in making their applications accessible to non-visual learners; resulting in increased accessibility and inclusion.
 * Managed 3+ collaborative projects with industry leaders such as Workday, Zoom, and Microsoft to assist them in producing an accessible application
@@ -28,7 +27,7 @@ Experience
 **University of Washington**
 *Customer Service Specialist Assistant*
 
-:  2021 - 2022
+:   2021 - 2022
 
 * Addressed alumni concerns and questions through clear and concise information
 * Aided alumni through system usage while providing valuable feedback to management to process improvements
@@ -40,10 +39,10 @@ Technical Experience
 WINFO 2023 Hackaton
 :   Designed and created a interctive application that provides resources for students
 going home late at night. A way to provide safety to our campus community and for our
-studennts
+students
 
-    * used FIGMA to design and create a protype for the application
-    * 12 hr hackaton to design, create and present the final product
+  * used FIGMA to design and create a protype for the application
+  * 12 hr hackaton to design, create and present the final product
 
 INRIX x Amazon Hackaton
 :   Designed and programmed a interactive map using INRIX and Amazon API in order
@@ -51,8 +50,8 @@ to design an application that allows user to find the safest route from point A 
 point B. There is a chatBot that will further assist with any additional questions
 regarding the API.
 
-    * 24 hr hackaton to design and program the product
-    * 2 round of presentation + 1 finalist presentation
+  * 24 hr hackaton to design and program the product
+  * 2 round of presentation + 1 finalist presentation
 
 Programming Languages
 :   **first-lang:** I learned java and javascript first when I took CSE 142. And
@@ -74,8 +73,6 @@ ADDITIONAL INFORMATION
 ----------------------------------------
 
 * Human Languages:
-
      * English (native speaker)
      * Vietnamese (fluent)
-
 * I went on a cross country roadtrip summer 2020 from California to Indiana
